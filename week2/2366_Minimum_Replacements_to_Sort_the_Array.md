@@ -24,10 +24,5 @@ class Solution:
         
         return less
 ```
-
-### 765. Couples Holding Hands
-```
-
-```
 #### Accepted Pic![w2_leetcode2366](https://github.com/user-attachments/assets/6076cd17-0b31-4984-8c01-cd1007cad5b0)
 
