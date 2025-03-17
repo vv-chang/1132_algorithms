@@ -15,3 +15,5 @@ class Solution:
             
         return boat
 ```
+
+![w3_leetcode881](https://github.com/user-attachments/assets/063a619f-c783-46a3-a03c-6e0c708ec294)
