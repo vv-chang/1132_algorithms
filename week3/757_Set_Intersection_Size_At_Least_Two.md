@@ -27,3 +27,5 @@ class Solution:
 
         return total
 ```
+![w3_leetcode757](https://github.com/user-attachments/assets/28115f4f-a753-4cf0-9fe8-9cd10b50622f)
+
