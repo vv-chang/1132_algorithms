@@ -1,7 +1,6 @@
 # week 3
 ### 757_Set_Intersection_Size_At_Least
 #### Code
-#### Accepted Pic
 ```python
 class Solution:
     def intersectionSizeTwo(self, intervals: List[List[int]]) -> int:
@@ -31,5 +30,6 @@ class Solution:
 
         return total
 ```
+#### Accepted Pic
 ![w3_leetcode757](https://github.com/user-attachments/assets/28115f4f-a753-4cf0-9fe8-9cd10b50622f)
 
