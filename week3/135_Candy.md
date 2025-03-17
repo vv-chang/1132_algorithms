@@ -1,5 +1,5 @@
-# week 1
-### 146_LRU_Cache
+# week 3
+### 135_Candy
 #### Code
 ```python
 class Solution:
