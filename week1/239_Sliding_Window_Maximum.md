@@ -1,4 +1,7 @@
-
+# week 1
+### 239_Sliding_Window_Maximum
+LRU Cache (Least Recently Used)：容量達到上限時，移除最久未使用的數據
+#### Code
 ```python
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
