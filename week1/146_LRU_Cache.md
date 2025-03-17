@@ -1,5 +1,6 @@
 # week 1
 ### 146_LRU_Cache
+LRU Cache (Least Recently Used)：容量達到上限時，移除最久未使用的數據
 #### Code
 ```python
 from collections import OrderedDict
