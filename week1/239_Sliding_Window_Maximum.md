@@ -27,3 +27,5 @@ class Solution:
         
         return result
 ```
+#### Accepted Pic
+![w1_leetcode239](https://github.com/user-attachments/assets/6b6eff7b-e53d-4c6c-a787-124a5544ceba)
