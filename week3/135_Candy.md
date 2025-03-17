@@ -1,3 +1,6 @@
+# week 1
+### 146_LRU_Cache
+#### Code
 ```python
 class Solution:
     def candy(self, ratings: List[int]) -> int:
@@ -17,5 +20,6 @@ class Solution:
         candy = sum(candy)
         return(candy)
 ```
+#### Accepted Pic
 ![w3_leetcode135](https://github.com/user-attachments/assets/4373da03-c92a-4f7c-b33d-31e19d8b3285)
 
