@@ -1,3 +1,6 @@
+# week 3
+### 881_Boats_to_Save_People
+#### Code
 ```python
 class Solution:
     def numRescueBoats(self, people: List[int], limit: int) -> int:
@@ -15,5 +18,5 @@ class Solution:
             
         return boat
 ```
-
+#### Accepted Pic
 ![w3_leetcode881](https://github.com/user-attachments/assets/063a619f-c783-46a3-a03c-6e0c708ec294)
