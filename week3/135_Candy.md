@@ -17,5 +17,5 @@ class Solution:
         candy = sum(candy)
         return(candy)
 ```
+![w3_leetcode135](https://github.com/user-attachments/assets/4373da03-c92a-4f7c-b33d-31e19d8b3285)
 
-![image](https://github.com/user-attachments/assets/01d88663-4af4-4089-96b0-7b28fce86ec6)
