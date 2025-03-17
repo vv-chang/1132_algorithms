@@ -1,6 +1,6 @@
 # week 1
-## 146_LRU_Cache
-### Code
+### 146_LRU_Cache
+#### Code
 ```python
 from collections import OrderedDict
 
@@ -32,5 +32,5 @@ class LRUCache:
             # 把第一個丟出去
             self.cache.popitem(last=False)
 ```
-### Accepted Pic
+#### Accepted Pic
 ![w1_leedcode146](https://github.com/user-attachments/assets/01295c5c-cd6e-4c4d-975d-d6f232af1aee)
