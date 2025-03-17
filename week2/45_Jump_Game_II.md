@@ -14,7 +14,7 @@ class Solution:
     
         for i in range(0, n-1, 1):
 
-            # 更新最遠能到的位置
+            # 最遠能到的位置
             far = max(far, i+nums[i])  
 
             # 範圍達邊界，跳躍+1
