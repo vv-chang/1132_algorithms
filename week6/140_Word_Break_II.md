@@ -1,6 +1,6 @@
 # week 6
 ### 140_Word_Break_II
-資料結構：Set + Dict
+資料結構：Set + Dict<br>
 演算法：DFS + Backtracking + DP (Dynamic Programming)
 #### Code
 ```python
