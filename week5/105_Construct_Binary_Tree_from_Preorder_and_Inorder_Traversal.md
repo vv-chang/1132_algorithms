@@ -16,7 +16,7 @@ class Solution:
 
         # 定義遞迴函數，建構子樹
         def helper(in_left: int, in_right: int) -> Optional[TreeNode]:
-            # 若範圍錯誤，代表無節點
+            # 若範圍錯代表無節點
             if in_left > in_right:
                 return None
 
