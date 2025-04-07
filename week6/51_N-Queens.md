@@ -1,5 +1,7 @@
 # week 6
 ### 46_Permutations
+資料結構：List + Set<br>
+演算法：Backtracking
 #### Code
 ```python
 class Solution:
