@@ -1,5 +1,6 @@
 # week 5
 ### 912_Sort_an_Array
+演算法：Divide and Conquer + Recursion + Merge sort
 #### Code
 ```python
 class Solution:
