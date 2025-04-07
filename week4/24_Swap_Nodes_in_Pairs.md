@@ -1,6 +1,7 @@
 # week 4
 ### 24_Swap_Nodes_in_Pairs
-使用Recursion+Pointer
+資料結構：Linked List
+演算法：Recursion + Pointer
 #### Code
 ```python
 # Definition for singly-linked list.
