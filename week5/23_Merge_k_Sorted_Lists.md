@@ -41,7 +41,7 @@ class Solution:
             current = current.next
         # 將剩下的節點串接起來（一定只會剩l1或l2中的一個）
         current.next = l1 if l1 else l2
-        return dummy.next  # 回傳真正的頭節點
+        return dummy.next  # 回傳真正的head節點
 ```
 #### Accepted Pic
 ![螢幕擷取畫面 2025-04-07 231408](https://github.com/user-attachments/assets/6ab05071-bd07-4443-93cd-9cbe19657d4f)
