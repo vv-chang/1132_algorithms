@@ -8,7 +8,7 @@ class Solution:
         res = []
 
         def backtrack(path, remaining):
-            # 如果沒有剩下的數字可以選，表示已經完成一組排列
+            # 若沒有剩下的數字可以選，代表已經完成一組排列
             if not remaining:
                 res.append(path[:])  # 將當前排列加入結果
                 return
