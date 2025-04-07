@@ -1,6 +1,7 @@
 # week 6
 ### 140_Word_Break_II
-使用DFS+Backtrack+Memoization(DP)
+資料結構：Set + Dict
+演算法：DFS + Backtracking + DP (Dynamic Programming)
 #### Code
 ```python
 class Solution:
