@@ -1,5 +1,7 @@
 # week 5
 ### 23_Merge_k_Sorted_Lists
+資料結構：Linked List<br>
+演算法：Divide and Conquer + Recursion + Merge sort
 #### Code
 ```python
 # Definition for singly-linked list.
