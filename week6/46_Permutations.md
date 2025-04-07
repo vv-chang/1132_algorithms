@@ -1,6 +1,6 @@
-
 # week 6
 ### 46_Permutations
+演算法：Backtracking + Recursion
 #### Code
 ```python
 class Solution:
