@@ -4,10 +4,9 @@
 ```python
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-
         def merge_sort(arr: List[int]) -> List[int]:
 
-            # 當陣列長度為 0 或 1 時，直接回傳（已經排序好了）
+            # 當陣列長度為 0 或 1 時，直接回傳（已排序好）
             if len(arr) <= 1:
                 return arr
 
@@ -29,22 +28,20 @@ class Solution:
             while i < len(left) and j < len(right):
 
                 if left[i] < right[j]:
-                    result.append(left[i])  # left 的元素較小，加入結果
+                    result.append(left[i])  # left的元素較小，加入
                     i += 1
                 else:
-                    result.append(right[j])  # right 的元素較小，加入結果
+                    result.append(right[j])  # right的元素較小，加入
                     j += 1
 
-            # 若 left 陣列有剩下的元素，加入結果
+            # 若 left 陣列有剩下的元素，加入
             result.extend(left[i:])
-            # 若 right 陣列有剩下的元素，加入結果
+            # 若 right 陣列有剩下的元素，加入
             result.extend(right[j:])
-
-            # 回傳合併後的有序陣列
             return result
 
 
-        # 呼叫 merge_sort 開始分而治之排序整個 nums
+        # 呼叫 merge_sort 排序整個 nums
         return merge_sort(nums)
 ```
 #### Accepted Pic
