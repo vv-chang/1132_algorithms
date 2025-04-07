@@ -1,5 +1,6 @@
 # week 4
 ### 50_Pow(x, n)
+使用Divide and Conquer+Recursion
 #### Code
 ```python
 class Solution:
