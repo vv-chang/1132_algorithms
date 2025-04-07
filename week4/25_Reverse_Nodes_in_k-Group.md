@@ -1,6 +1,7 @@
 # week 4
 ### 25_Reverse_Nodes_in_k-Group
-使用Recursion+Pointer+Reverse+Sliding Window
+資料結構：Linked List
+演算法：Recursion + Pointer + Sliding Window
 #### Code
 ```python
 # Definition for singly-linked list.
