@@ -1,6 +1,6 @@
 # week 4
 ### 25_Reverse_Nodes_in_k-Group
-資料結構：Linked List
+資料結構：Linked List<br>
 演算法：Recursion + Pointer + Sliding Window
 #### Code
 ```python
