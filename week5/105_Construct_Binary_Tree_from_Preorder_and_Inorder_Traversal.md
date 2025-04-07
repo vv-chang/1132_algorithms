@@ -1,6 +1,8 @@
 # week 5
 ### 105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
-使用 Binary Tree + Hash Map, Divide and Conquer + Recursion
+資料結構：Binary Tree + Hash Map<br>
+演算法：Divide and Conquer + Recursion
+
 #### Code
 ```python
 # Definition for a binary tree node.
