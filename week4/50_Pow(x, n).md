@@ -11,12 +11,12 @@ class Solution:
         elif n==1:
             return x
         elif n<0:
-            n = n(-1)
+            n = n*(-1)
             return self.myPow(1/x, n)
         else:
             if n%2 == 0:
                 half = self.myPow(x, n/2)
-                return halfhalf
+                return half*half
             else: 
                 return x*self.myPow(x, n-1)
 ```
