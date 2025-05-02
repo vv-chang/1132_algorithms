@@ -9,7 +9,7 @@ class Solution:
         if not intervals:
             return 0
         
-        # 將區間按照「結束時間」由小到大排序
+        # 將區間按照結束時間由小到大排序
         intervals.sort(key=lambda x: x[1])
 
         # 記錄目前不重疊區間的結束時間
