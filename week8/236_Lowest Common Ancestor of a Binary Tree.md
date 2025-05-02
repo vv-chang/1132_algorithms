@@ -20,7 +20,7 @@ class Solution:
         # 遞迴往右子樹找
         right = self.lowestCommonAncestor(root.right, p, q)
         
-        # 如果左邊和右邊都找到了，代表 p 和 q 分別在左右子樹上，所以 root 就是最近公共祖先
+        # 如果左邊和右邊都找到了，代表 p 和 q 分別在左右子樹上，所以 root 就是LCA
         if left and right:
             return root
         
