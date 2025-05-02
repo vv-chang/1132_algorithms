@@ -20,7 +20,7 @@ class Solution:
         for i in range(1, len(intervals)):
             # 如果當前區間的起始時間小於前一個區間的結束時間，表示有重疊
             if intervals[i][0] < end:
-                count += 1  # 必須刪除這個區間（我們保留結束時間早的區間）
+                count += 1  # 必須刪除這個區間（保留結束時間早的區間）
             else:
                 end = intervals[i][1]  # 更新目前不重疊的結束時間
 
