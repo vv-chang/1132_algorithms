@@ -44,4 +44,5 @@ class Solution:
         return -1
 ```
 #### Accepted Pic
+![image](https://github.com/user-attachments/assets/5012fb6d-a399-4cba-93eb-c7c267a06c7e)
 
